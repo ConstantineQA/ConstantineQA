@@ -7,3 +7,7 @@
 ### 💼 В работе я использую:
 ### 👀 Также знаком с:
 ### 🤝 Как связаться со мной:
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConstantineQA&show_icons=true&count_private=true&theme=onedark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats&)
