@@ -13,7 +13,7 @@ test
 <a href="https://t.me/ConstantineDbzi" target="_blank">
       <img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" width="40" height="40" alt="telegram" />
     </a>
-<a href="slobozhaninov1@yandex.ru" target="_blank">
+<a href="mailto:email@email.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/1200px-Yandex_Mail_icon.svg.png" width="40" height="40" alt="mail" />
     </a>   
 </div>
