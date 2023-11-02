@@ -14,7 +14,8 @@ test
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg "title="Confluence" alt="confluence" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg "title="Jira" alt="jira" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" alt="figma" width="40" height="40"/>&nbsp;   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"title="Azure" alt="azure" width="40" height="40"/>&nbsp;  
 </div>
 
 ### 👀 Также знаком с:
@@ -23,6 +24,7 @@ test
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
     <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" title="Charles" alt="Fiddler" width="40" height="40"/>&nbsp;
+    <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
 ### 🤝 Как связаться со мной:
