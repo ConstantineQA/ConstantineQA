@@ -15,8 +15,7 @@ test
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg "title="Confluence" alt="confluence" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg "title="Jira" alt="jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"title="Azure" alt="azure" width="40" height="40"/>&nbsp;
-    <img src="https://vocon-it.com/wp-content/uploads/2016/11/kibana-logo-color-v.png?w=748"title="Kibana" alt="kibana" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"title="Azure" alt="azure" width="40" height="40"/>&nbsp;  
 </div>
 
 ### 👀 Также знаком с:
