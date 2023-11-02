@@ -6,7 +6,9 @@
 ### 👨🏻‍💻 Обо мне:
 test
 ### 💼 В работе я использую:
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+</div>
 ### 👀 Также знаком с:
 ### 🤝 Как связаться со мной:
 <div id="icons">
