@@ -25,6 +25,7 @@ test
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
     <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" title="Charles" alt="Fiddler" width="40" height="40"/>&nbsp;
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40"/>&nbsp
+    <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
 </div>
 
 ### 🤝 Как связаться со мной:
