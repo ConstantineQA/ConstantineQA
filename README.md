@@ -32,9 +32,14 @@ test
     <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
 </div>
 
+---
 ### 📚 Тестовая документация:
 - [Тест-кейсы](https://github.com/ConstantineQA/Test-Cases)
 - [Чек-лист](https://github.com/ConstantineQA/Checklist)
+- [Коллекция Postman](https://github.com/ConstantineQA/Postman-Collection)
+- [Баг-репорты](https://github.com/ConstantineQA/Bug-Reports)
+
+---
 
 ### 🤝 Как связаться со мной:
 <div id="icons">
