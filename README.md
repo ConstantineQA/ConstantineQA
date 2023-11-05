@@ -6,9 +6,6 @@
 ### 👨🏻‍💻 Обо мне:
 test
 
-### 📄 Моё резюме:
-[Ссылка на моё резюме](https://hh.ru/resume/fe0a023dff08c508b60039ed1f786e4b4a4f30)
-
 ### 💼 В работе я использую:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
@@ -42,6 +39,9 @@ test
 - [Блок-схема](https://github.com/ConstantineQA/Flowchart)
 
 ---
+
+### 📄 Моё резюме:
+[Ссылка на моё резюме](https://hh.ru/resume/fe0a023dff08c508b60039ed1f786e4b4a4f30)
 
 ### 🤝 Как связаться со мной:
 <div id="icons">
