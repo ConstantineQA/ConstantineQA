@@ -34,6 +34,7 @@ test
 
 ### Тестовая документация:
 - [Тест-кейсы](https://github.com/ConstantineQA/Test-Cases)
+- [Чек-лист](https://github.com/ConstantineQA/Checklist)
 
 ### 🤝 Как связаться со мной:
 <div id="icons">
