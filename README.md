@@ -39,6 +39,7 @@ test
 - [Чек-лист](https://github.com/ConstantineQA/Checklist)
 - [Коллекция Postman](https://github.com/ConstantineQA/Postman-Collection)
 - [Баг-репорты](https://github.com/ConstantineQA/Bug-Reports)
+- [Блок-схема](https://github.com/ConstantineQA/Flowchart)
 
 ---
 
