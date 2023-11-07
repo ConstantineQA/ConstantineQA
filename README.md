@@ -17,7 +17,7 @@ test
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" alt="figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp; 
     <img src="https://coralogix.com/wp-content/uploads/2020/06/Kibana_Large.png"title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;  
     <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
 </div>
 
