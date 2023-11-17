@@ -59,5 +59,3 @@ test
 </div>
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConstantineQA&show_icons=true&count_private=true&theme=dark&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats&)
