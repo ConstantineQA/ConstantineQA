@@ -31,7 +31,7 @@
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40"/>&nbsp
     <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" title="Charles" alt="Charles" width="40" height="40"/>&nbsp;
-    <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+    <img src="https://yt3.googleusercontent.com/T5lm63qvcpBRv-KOwe8t_d-ervHk0W-SkgBOjNiFJ69QGZ-WoZdOCJxzPhPVgGqleJN94u5NCA=s900-c-k-c0x00ffffff-no-rj" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
