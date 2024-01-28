@@ -11,9 +11,9 @@
 
 ### 💼 В работе я использую:
 <div>
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="100" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/800px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" **alt="Postman" width="100" height="40"/>
     <img src="https://nicj.net/talks-files/forensic-tools-for-in-depth-performance-investigations/presentation/images/logo-fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg "title="Jira" alt="jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg "title="Confluence" alt="confluence" width="40" height="40"/>&nbsp;
